@@ -8,7 +8,7 @@ msgstr ""
 "Language: uk\n"
 "Project-Id-Version: bsky-app-ua\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2025-01-31 09:30\n"
+"PO-Revision-Date: 2025-01-31 15:30\n"
 "Last-Translator: \n"
 "Language-Team: Ukrainian\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
@@ -180,7 +180,7 @@ msgstr "Власна підбірка {0}"
 #. How many days have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:158
 msgid "{0}d"
-msgstr "{0}д"
+msgstr "{0}дн"
 
 #. How many hours have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:148
@@ -195,7 +195,7 @@ msgstr "{0}хв"
 #. How many months have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:169
 msgid "{0}mo"
-msgstr "{0}м"
+msgstr "{0}міс"
 
 #. How many seconds have passed, displayed in a narrow form
 #: src/lib/hooks/useTimeAgo.ts:128
@@ -1852,7 +1852,7 @@ msgstr "Скопіювати код"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:474
 msgid "Copy DID"
-msgstr "Копіювати ідентифікатор діалогу"
+msgstr "Копіювати ідентифікатор"
 
 #: src/screens/Settings/components/ChangeHandleDialog.tsx:407
 msgid "Copy host"

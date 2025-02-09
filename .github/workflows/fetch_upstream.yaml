@@ -2,8 +2,8 @@ name: Fetch new changes from upstream
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '43 4 * * *'
+  # schedule:
+  #   - cron: '43 4 * * *'
 
 concurrency:
   group: fetch
